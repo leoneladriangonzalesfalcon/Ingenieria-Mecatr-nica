@@ -1,8 +1,8 @@
-README.md M
+README.md
 
 # Proyecto Arduino: LED parpadeante
 
-Este proyecto enciende y apaga un LED cada 1 s
+Este proyecto enciende y apaga un LED cada 1 segundo usando una placa Arduino.
 
 ## Materiales
 - 1 Arduino Uno
@@ -26,6 +26,4 @@ Este proyecto enciende y apaga un LED cada 1 s
 4. Observa cómo el LED parpadea.
 
 ## Código
-El código principal está en el archivo `.ino`
-
-## Cambio localmente
+El código principal está en el archivo `.ino`.
